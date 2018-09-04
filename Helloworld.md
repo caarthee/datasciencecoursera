@@ -1,3 +1,2 @@
-## Big heading 
-### Small heading
+## This is a markdown file 
 
